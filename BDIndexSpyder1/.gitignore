@@ -1,0 +1,8 @@
+/.idea
+/phantomjs-2.1.1-windows
+/target
+BDIndexSpyder1.iml
+*txt
+*bat
+*log
+log*
