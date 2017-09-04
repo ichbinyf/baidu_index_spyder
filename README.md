@@ -1,9 +1,9 @@
 # baidu_index_spyder
 
-参考了https://github.com/longzhiwen888/fetch_baidu_index的思路，用java实现。
+参考了(https://github.com/longzhiwen888/fetch_baidu_index)的思路，用java实现。
 
 # 运行环境
-暂时用于windows下，需要PhantomJS，可以到http://phantomjs.org/download.html里下载 phantomjs-2.1.1-windows.zip 。
+暂时用于windows下，需要PhantomJS，可以到(http://phantomjs.org/download.html)里下载 phantomjs-2.1.1-windows.zip 。
 
 # 使用方法
 1.解压PhantomJS
