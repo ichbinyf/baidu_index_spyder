@@ -1,13 +1,13 @@
-#baidu_index_spyder
+# baidu_index_spyder
 
-²Î¿¼ÁËhttps://github.com/longzhiwen888/fetch_baidu_indexµÄË¼Â·£¬ÓÃjavaÊµÏÖ¡£
+å‚è€ƒäº†https://github.com/longzhiwen888/fetch_baidu_indexçš„æ€è·¯ï¼Œç”¨javaå®ç°ã€‚
 
-#ÔËĞĞ»·¾³
-ÔİÊ±ÓÃÓÚwindowsÏÂ£¬ĞèÒªPhantomJS£¬¿ÉÒÔµ½http://phantomjs.org/download.htmlÀïÏÂÔØ phantomjs-2.1.1-windows.zip ¡£
+# è¿è¡Œç¯å¢ƒ
+æš‚æ—¶ç”¨äºwindowsä¸‹ï¼Œéœ€è¦PhantomJSï¼Œå¯ä»¥åˆ°http://phantomjs.org/download.htmlé‡Œä¸‹è½½ phantomjs-2.1.1-windows.zip ã€‚
 
-#Ê¹ÓÃ·½·¨
-1.½âÑ¹PhantomJS
-2.´´½¨keyword.txt£¬Ã¿ĞĞ´æÒ»¸ö¹Ø¼ü´Ê
-3.´´½¨user.txt£¬µÚÒ»ĞĞ·Å°Ù¶ÈÓÃ»§Ãû£¬µÚ¶şĞĞ·ÅÃÜÂë
-4.°²×°java 1.8²¢ÅäÖÃ»·¾³±äÁ¿
-5.ÔËĞĞexe.bat
+# ä½¿ç”¨æ–¹æ³•
+1.è§£å‹PhantomJS
+2.åˆ›å»ºkeyword.txtï¼Œæ¯è¡Œå­˜ä¸€ä¸ªå…³é”®è¯
+3.åˆ›å»ºuser.txtï¼Œç¬¬ä¸€è¡Œæ”¾ç™¾åº¦ç”¨æˆ·åï¼Œç¬¬äºŒè¡Œæ”¾å¯†ç 
+4.å®‰è£…java 1.8å¹¶é…ç½®ç¯å¢ƒå˜é‡
+5.è¿è¡Œexe.bat
